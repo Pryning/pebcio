@@ -1,0 +1,43 @@
+{
+  "name": "core-lcd",
+  "author": "Tobias Pryning",
+  "license": "GPL-3.0-or-later",
+  "version": "1.0.1",
+  "keywords": [
+    "pebble-app"
+  ],
+  "private": true,
+  "dependencies": {
+    "@rebble/clay": "^1.1.0"
+  },
+  "pebble": {
+    "displayName": "CORCIO LCD",
+    "uuid": "e2f94e1e-3a70-4adf-b676-ddd7e3948d51",
+    "projectType": "moddable",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "emery"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "capabilities": [
+      "location",
+      "configurable"
+    ],
+    "messageKeys": [
+      "TempUnit",
+      "ClockFormat",
+      "SecondsMode",
+      "WeekStart",
+      "DateFormat",
+      "Temperature",
+      "WeatherIcon",
+      "RequestWeather"
+    ],
+    "resources": {
+      "media": []
+    }
+  }
+}

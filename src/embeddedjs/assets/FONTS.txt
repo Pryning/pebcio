@@ -1,0 +1,15 @@
+Fonts in this directory
+
+Segment7.ttf  (source for the time, seconds and date fonts)
+  "7-Segment" by Jan Bobrowski, https://torinak.com/font/7-segment
+  SIL Open Font License 1.1 (see Segment7-LICENSE.txt), unmodified.
+
+Segment7Px72.ttf, Segment7Px44.ttf, Segment7Px24.ttf  (time, date, seconds)
+  Modified versions of Segment7.ttf (SIL OFL 1.1), one per pixel size, made by
+  tools/make_seg7.sh so the digits do not shift by a pixel when they change:
+    tools/make_seg7.sh <python with fontTools>
+
+DSEG14Classic-BoldItalic.ttf  (temperature, unit, AM/PM)
+DSEGWeather.ttf  (weather icons)
+  DSEG v0.46 by keshikan, https://github.com/keshikan/DSEG
+  SIL Open Font License 1.1 (see DSEG-LICENSE.txt), unmodified.
