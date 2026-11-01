@@ -1,5 +1,5 @@
 {
-  "name": "core-lcd",
+  "name": "pebcio",
   "author": "Tobias Pryning",
   "license": "GPL-3.0-or-later",
   "version": "1.0.1",
@@ -11,7 +11,7 @@
     "@rebble/clay": "^1.1.0"
   },
   "pebble": {
-    "displayName": "CORCIO LCD",
+    "displayName": "pebcio",
     "uuid": "e2f94e1e-3a70-4adf-b676-ddd7e3948d51",
     "projectType": "moddable",
     "sdkVersion": "3",

@@ -1,4 +1,4 @@
-// CORCIO LCD: Casio-style LCD watchface for Pebble Time 2 (emery, 200x228).
+// pebcio: Casio-style LCD watchface for Pebble Time 2 (emery, 200x228).
 // Inspired by CORE91 by tc5206. Segment and weather fonts: DSEG by keshikan (OFL).
 import Poco from "commodetto/Poco";
 import parseBMF from "commodetto/parseBMF";

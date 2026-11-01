@@ -1,8 +1,8 @@
-# CORCIO LCD
+# pebcio
 
 A Casio-style LCD watchface for the Pebble Time 2 (emery, 200×228), built with Alloy (Moddable JavaScript).
 
-![CORCIO LCD on emery](emery_screenshot.png)
+![pebcio on emery](emery_screenshot.png)
 
 ## Features
 

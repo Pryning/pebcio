@@ -1,7 +1,7 @@
 module.exports = [
   {
     "type": "heading",
-    "defaultValue": "CORCIO LCD"
+    "defaultValue": "pebcio"
   },
   {
     "type": "section",
