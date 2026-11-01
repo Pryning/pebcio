@@ -1,0 +1,10 @@
+# Pebble / waf build output
+build/
+.lock-waf*
+
+# npm dependencies (reinstalled with `npm install`)
+node_modules/
+
+# Python caches from tools/
+__pycache__/
+*.pyc
